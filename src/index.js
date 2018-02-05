@@ -50,4 +50,5 @@ store.subscribe(() => {
   render();
 });
 
+// render on page load
 render();
